@@ -1,0 +1,15 @@
+1) Created a respotory on github
+2) cd desktop
+3) mkdir basic_repo
+4) cd basic_repo
+6) git init
+7) touch README.txt
+8) git remote add origin https://github.com/asdfkerub/basic_repo
+9) git push -u origin master
+10) git add .
+11) git commit -m "Initialize Commit"
+12) git push
+13) touch simple.txt
+14) git add .
+15) git commit -m "Added simple.txt"
+16) git push
